@@ -1,3 +1,9 @@
+SET hex1=.\in\ota1.hex
+SET hex2=.\in\ota2.hex
+
+copy %hex1% .\in\ota_1.hex
+copy %hex2% .\in\ota_2.hex
+
 .\utility\hex2bin.exe .\in\ota_1.hex
 move .\in\ota_1.bin .\out
 .\utility\mkimage.exe single .\out\ota_1.bin .\in\ota_version_1.h .\out\ota_1.img
