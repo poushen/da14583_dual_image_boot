@@ -1,0 +1,8 @@
+2	String	Signature	Image Header Signature(7051)
+1	String	Valid_Flag	Valid Flag(AA)
+1	String	Image_ID	Image ID(01)
+4	Integer	CODE_SIZE	Code Size
+4	Integer	CRC	CRC
+16	String	version	version
+4	Integer	timestamp	timestamp
+1	Integer	encryption	encryption

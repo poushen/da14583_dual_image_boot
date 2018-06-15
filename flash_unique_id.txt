@@ -1,0 +1,8 @@
+1	Integer	D0	D0(First 8 Encrypt Bytes)
+1	Integer	D1	D1
+1	Integer	D2	D2
+1	Integer	D3	D3
+1	Integer	D4	D4
+1	Integer	D5	D5
+1	Integer	D6	D6
+1	Integer	D7	D7

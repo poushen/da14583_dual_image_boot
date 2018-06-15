@@ -1,0 +1,5 @@
+2	String	Signature	Product Header Signature(7052)
+2	String	Version	Product Header Version
+4	Integer	Offset1	Offset Image1 (valid only in dual image bootloader)
+4	Integer	Offset2	Offset Image2 (valid only in dual image bootloader)
+6	String	DBAddress	Device Address
